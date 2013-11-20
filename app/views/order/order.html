@@ -1,0 +1,24 @@
+<div class="container">
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<tabset>
+				<tab heading="Vehicle Number">
+					Vehicle No:
+					<input ng-model="query">
+					<button ng-click="Query(vehicle)">Query</button>
+				</tab>
+				<tab heading="Vehicle Type">
+					<div class="span10">
+				      <ul class="phones">
+				        <li ng-repeat="vehicle in vehicles | filter:query | orderBy:orderProp" class="thumbnail phone-listing">
+						  <a href="#/components/{{vehicle.id}}" class="thumb"><img ng-src="{{vehicle.imageUrl}}"></a>
+				          <a href="#/components/{{vehicle.id}}">{{vehicle.name}}</a>
+				          <p>{{vehicle.description}}</p>
+				        </li>
+				      </ul>
+				    </div>
+				</tab>
+			</tabset>
+		</div>
+	</div>
+</div>
