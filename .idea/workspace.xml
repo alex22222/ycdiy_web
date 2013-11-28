@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa0c3fc1-6a6a-4fab-93eb-952b8d4fac84" name="Default" comment="" />
+    <list default="true" id="aa0c3fc1-6a6a-4fab-93eb-952b8d4fac84" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/APL.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/AVC.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/BAN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/CTP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/FIG.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/GRF.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/GRP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/GUA.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/KIW.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/LYC.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/MAN.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/ORG.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/PAP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/PCH.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/PER.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/PMG.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/PNP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/PSM.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/STR.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/TNG.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/products/WML.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/r0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/r1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/r2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/r3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/r4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/order/product.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/product.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/order/shoppingCart.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/shoppingCart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/order/store.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/order/componentList.html" afterPath="$PROJECT_DIR$/app/views/order/componentList.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers.js" afterPath="$PROJECT_DIR$/app/scripts/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/style.css" afterPath="$PROJECT_DIR$/app/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ycdiy_web.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +65,7 @@
       <file leaf-file-name="order.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/order/order.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="56" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="551">
+            <state line="15" column="56" selection-start="662" selection-end="662" vertical-scroll-proportion="-0.0" vertical-offset="285" max-vertical-offset="551">
               <folding />
             </state>
           </provider>
@@ -41,10 +80,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="1758" selection-end="1758" vertical-scroll-proportion="0.66906476" vertical-offset="388" max-vertical-offset="1007">
+            <state line="35" column="20" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="369" max-vertical-offset="988">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="componentList.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/order/componentList.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="13" selection-start="800" selection-end="800" vertical-scroll-proportion="-6.964286" vertical-offset="185" max-vertical-offset="741">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shoppingCart.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/shoppingCart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6536">
               <folding />
             </state>
           </provider>
@@ -62,7 +119,7 @@
       <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="46" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="969">
+            <state line="43" column="46" selection-start="1388" selection-end="1388" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="1254">
               <folding />
             </state>
           </provider>
@@ -71,7 +128,18 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="40" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="779">
+            <state line="71" column="51" selection-start="2840" selection-end="2840" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1634">
+              <folding>
+                <marker date="1385118138314" expanded="true" signature="2641:2987" placeholder="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.htm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/order/product.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.37589929" vertical-offset="0" max-vertical-offset="1482">
               <folding />
             </state>
           </provider>
@@ -86,6 +154,7 @@
   </component>
   <component name="Git.Settings">
     <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
   </component>
   <component name="GitLogSettings">
@@ -102,6 +171,7 @@
         <option value="$PROJECT_DIR$/app/views/order/order.html" />
         <option value="$PROJECT_DIR$/app/scripts/services.js" />
         <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/views/order/componentList.html" />
       </list>
     </option>
   </component>
@@ -118,7 +188,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -137,7 +207,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,22 +253,121 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ycdiy_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phones" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="ycdiy" serverId="79db1785-116f-4096-aa4a-3fb9727c2dd8">
     <servers>
@@ -217,21 +385,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\D\workspace_webstorm\ycdiy_web\app\img" />
+      <recent name="C:\D\workspace_webstorm\ycdiy_web\app\views\order" />
+      <recent name="C:\D\workspace_webstorm\ycdiy_web\app\scripts" />
       <recent name="C:\D\workspace_webstorm\ycdiy_web\app" />
       <recent name="C:\D\workspace_webstorm\ycdiy_web\app\styles" />
-      <recent name="C:\D\workspace_webstorm\ycdiy_web\app\views" />
-      <recent name="C:\D\workspace_webstorm\ycdiy_web\app\scripts" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -240,6 +401,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -290,7 +459,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.6704918" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24450952" sideWeight="0.6704918" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -331,21 +500,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/bower_components/jquery/.bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bower_components/jquery/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/bower_components/jquery/component.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/bower_components/angular-bootstrap/ui-bootstrap-tpls.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="68001" />
@@ -368,16 +522,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="779">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="46" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="969">
+        <state line="43" column="46" selection-start="1388" selection-end="1388" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="1254">
           <folding />
         </state>
       </provider>
@@ -415,7 +562,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1758" selection-end="1758" vertical-scroll-proportion="0.66906476" vertical-offset="388" max-vertical-offset="1007">
+        <state line="35" column="20" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="369" max-vertical-offset="988">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/order/componentList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="800" selection-end="800" vertical-scroll-proportion="-6.964286" vertical-offset="185" max-vertical-offset="741">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/shoppingCart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6536">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="51" selection-start="2840" selection-end="2840" vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1634">
+          <folding>
+            <marker date="1385118138314" expanded="true" signature="2641:2987" placeholder="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/order/product.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="326" selection-end="326" vertical-scroll-proportion="0.37589929" vertical-offset="0" max-vertical-offset="1482">
           <folding />
         </state>
       </provider>

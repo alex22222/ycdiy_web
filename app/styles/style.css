@@ -3,3 +3,12 @@
     width: 400px;
     height: 300px;
 }
+.table td.tdRight {
+  text-align: right;
+}
+.table td.tdCenter {
+  text-align: center;
+}
+.table-nonfluid {
+   width: auto;
+}

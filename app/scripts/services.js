@@ -1,15 +1,20 @@
 'use strict';
 
 /* Services */
+var loginServices = angular.module('loginServices', ['ngResource']);
 
-var phonecatServices = angular.module('phonecatServices', ['ngResource']);
-
-phonecatServices.factory('Phone', ['$resource',
+loginServices.factory('LoginService', ['$resource',
   function($resource){
-    return $resource('/ycdiy/rest/phones/list', {}, {
-      query: {method:'GET', params:{}, isArray:true}
-    });
+      return {
+               login: function(email, pass, redirect, callback) {
+                  alert('login');
+               },
+               logout: function(redirectPath) {
+                 
+               }
+            }
   }]);
+
 
 var vehicleServices = angular.module('vehicleServices', ['ngResource']);
 
@@ -30,3 +35,25 @@ componentServices.factory('Component', ['$resource',
       query: {method:'GET', params:{}, isArray:true}
     });
   }]);
+
+var orderServices = angular.module('orderServices', ['ngResource']);
+orderServices.factory('Order', ['$resource',
+  function($resource){
+    var self=this;
+      self.add=function(order){
+        var res = $resource('http://localhost:8080/ycdiy/rest/orders/create',{});
+        res.save(item);
+      };
+  }]);
+
+ycdiyStoreApp.factory("DataService", function () {
+    var myStore = new store();
+    var myCart = new shoppingCart("ycdiyStore");
+    //myCart.addCheckoutParameters("PayPal", "paypaluser@youremail.com");
+    return {
+        store: myStore,
+        cart: myCart
+    };
+});
+
+

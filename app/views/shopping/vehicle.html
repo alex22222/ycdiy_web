@@ -1,0 +1,25 @@
+<p class="text-info">
+    {{defaultUser}},欢迎来到养车DIY网站！提示：注册用户可以根据车牌号码自动绑定车型。<br />
+</p>
+
+<p>
+    搜索: <input ng-model="search">
+</p>
+
+<table class="table table-bordered">
+    <tr class="well">
+        <td  colspan="4">
+             <b>选择车型</b>
+        </td>
+    </tr>
+    <tr ng-repeat="vehicle in vehicles | orderBy:'name' | filter:search" >
+        <td class="tdCenter"><a href="#/store"><img ng-src="img/vehicles/WML.jpg" alt="{{product.name}}" /></a></td>
+        <td>
+            <a href="#/store"><b>{{vehicle.name}}</b></a><br />
+            
+        </td>
+        <td class="tdCenter">
+            {{vehicle.description}}
+        </td>
+    </tr>
+</table>
